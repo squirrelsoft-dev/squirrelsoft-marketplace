@@ -20,6 +20,17 @@
       },
       "category": "development",
       "tags": ["meta", "scaffolding", "generator", "plugin-development"]
+    },
+    {
+      "name": "doc-fetcher",
+      "version": "1.0.0",
+      "description": "Fetches, caches, and versions documentation from web sources to provide accurate, version-specific context for AI coding agents",
+      "source": {
+        "source": "github",
+        "repo": "squirrelsoft-dev/doc-fetcher"
+      },
+      "category": "documentation",
+      "tags": ["documentation", "cache", "versioning", "context"]
     }
   ]
 }

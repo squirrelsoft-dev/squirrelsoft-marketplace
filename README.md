@@ -25,9 +25,24 @@ Meta-tool for building Claude Code plugins, skills, and agents.
 
 ---
 
+### Doc Fetcher
+Fetches, caches, and versions documentation from web sources to provide accurate, version-specific context for AI coding agents.
+```bash
+/plugin install doc-fetcher@squirrelsoft-dev
+```
+
+**Includes:**
+- Web documentation crawler
+- Version-aware caching
+- Context management for AI agents
+- Documentation search and retrieval
+
+[View on GitHub](https://github.com/squirrelsoft-dev/doc-fetcher)
+
+---
+
 ## Coming Soon
 
-- **Doc Fetcher** - Crawl and cache documentation for accurate AI responses
 - **Supabase Patterns** - Reusable auth, RLS, and repository patterns
 - **Component Registry** - shadcn-style component installation
 
