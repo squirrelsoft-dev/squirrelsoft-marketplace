@@ -1,0 +1,21 @@
+{
+  "name": "Squirrelsoft Dev Tools",
+  "version": "1.0.0",
+  "description": "Curated collection of development tools, skills, and agents for Claude Code",
+  "author": "Scott Beardsley",
+  "homepage": "https://squirrelsoft.dev",
+  "plugins": [
+    {
+      "id": "claude-builder",
+      "name": "Claude Builder",
+      "version": "1.0.0",
+      "description": "Meta-tool for building Claude Code plugins, skills, and agents",
+      "source": {
+        "source": "github",
+        "repo": "squirrelsoft-dev/claude-builder"
+      },
+      "category": "development",
+      "tags": ["meta", "scaffolding", "generator", "plugin-development"]
+    }
+  ]
+}
