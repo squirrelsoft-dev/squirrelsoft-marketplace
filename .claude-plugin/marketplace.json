@@ -1,6 +1,10 @@
 {
   "name": "squirrelsoft-dev-tools",
-  "owner": "squirrelsoft-dev",
+  "owner": {
+    "name": "Scott Beardsley",
+    "email": "contact@squirrelsoft.dev",
+    "url": "https://github.com/squirrelsoft-dev"
+  },
   "version": "1.0.0",
   "description": "Curated collection of development tools, skills, and agents for Claude Code",
   "author": "Scott Beardsley",

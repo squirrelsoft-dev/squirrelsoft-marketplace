@@ -40,7 +40,10 @@ Add a new entry to the `plugins` array:
 
 **Important schema requirements:**
 - Marketplace `name` must be kebab-case (no spaces)
-- Marketplace `owner` field is required
+- Marketplace `owner` field is required and must be an object with:
+  - `name` (required): Owner's name
+  - `email` (required): Contact email
+  - `url` (optional): GitHub profile or website URL
 - Plugin `name` must be kebab-case (no spaces)
 - Plugin `id` field is NOT allowed (use `name` instead)
 
