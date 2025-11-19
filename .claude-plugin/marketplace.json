@@ -1,36 +1,46 @@
 {
-  "name": "squirrelsoft-dev-tools",
-  "owner": {
-    "name": "Scott Beardsley",
-    "email": "contact@squirrelsoft.dev",
-    "url": "https://github.com/squirrelsoft-dev"
-  },
-  "version": "1.0.0",
-  "description": "Curated collection of development tools, skills, and agents for Claude Code",
-  "author": "Scott Beardsley",
-  "homepage": "https://squirrelsoft.dev",
-  "plugins": [
-    {
-      "name": "claude-builder",
-      "version": "1.0.0",
-      "description": "Meta-tool for building Claude Code plugins, skills, and agents",
-      "source": {
-        "source": "github",
-        "repo": "squirrelsoft-dev/claude-builder"
-      },
-      "category": "development",
-      "tags": ["meta", "scaffolding", "generator", "plugin-development"]
+    "name": "squirrelsoft-dev-tools",
+    "owner": {
+        "name": "Scott Beardsley",
+        "email": "contact@squirrelsoft.dev",
+        "url": "https://github.com/squirrelsoft-dev"
     },
-    {
-      "name": "doc-fetcher",
-      "version": "1.0.0",
-      "description": "Fetches, caches, and versions documentation from web sources to provide accurate, version-specific context for AI coding agents",
-      "source": {
-        "source": "github",
-        "repo": "squirrelsoft-dev/doc-fetcher"
-      },
-      "category": "documentation",
-      "tags": ["documentation", "cache", "versioning", "context"]
-    }
-  ]
+    "version": "1.0.0",
+    "description": "Curated collection of development tools, skills, and agents for Claude Code",
+    "author": "Scott Beardsley",
+    "homepage": "https://squirrelsoft.dev",
+    "plugins": [
+        {
+            "name": "claude-builder",
+            "version": "1.0.0",
+            "description": "Meta-tool for building Claude Code plugins, skills, and agents",
+            "source": {
+                "source": "github",
+                "repo": "squirrelsoft-dev/claude-builder"
+            },
+            "category": "development",
+            "tags": [
+                "meta",
+                "scaffolding",
+                "generator",
+                "plugin-development"
+            ]
+        },
+        {
+            "name": "doc-fetcher",
+            "version": "1.1.0",
+            "description": "Fetches, caches, and versions documentation from web sources to provide accurate, version-specific context for AI coding agents",
+            "source": {
+                "source": "github",
+                "repo": "squirrelsoft-dev/doc-fetcher"
+            },
+            "category": "documentation",
+            "tags": [
+                "documentation",
+                "cache",
+                "versioning",
+                "context"
+            ]
+        }
+    ]
 }
