@@ -28,7 +28,7 @@
         },
         {
             "name": "doc-fetcher",
-            "version": "2.1.0",
+            "version": "2.1.1",
             "description": "Fetches, caches, and versions documentation from web sources to provide accurate, version-specific context for AI coding agents",
             "source": {
                 "source": "github",
