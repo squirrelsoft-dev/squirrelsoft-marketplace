@@ -41,6 +41,25 @@
                 "versioning",
                 "context"
             ]
+        },
+        {
+            "name": "infinite-memory",
+            "version": "0.1.0-alpha",
+            "description": "Semantic memory system for Claude Code with persistent context retention through vector embeddings",
+            "source": {
+                "source": "github",
+                "repo": "squirrelsoft-dev/infinite-memory"
+            },
+            "category": "development",
+            "tags": [
+                "semantic-search",
+                "code-search",
+                "memory",
+                "embeddings",
+                "vector-database",
+                "pixeltable",
+                "mcp"
+            ]
         }
     ]
 }

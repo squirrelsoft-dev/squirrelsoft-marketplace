@@ -41,6 +41,28 @@ Fetches, caches, and versions documentation from web sources to provide accurate
 
 ---
 
+### Infinite Memory
+Semantic memory system for Claude Code with persistent context retention through vector embeddings.
+```bash
+/plugin install infinite-memory@squirrelsoft-dev
+```
+
+**Includes:**
+- 5 commands for indexing and searching (index-project, search, status, index-file, re-index)
+- Auto-index hook for save events
+- Semantic search skill with auto-activation
+- Vector database powered by Pixeltable
+- Model Context Protocol (MCP) integration
+
+**Requirements:**
+- Python ≥3.11
+- Minimum 4GB RAM (8GB recommended)
+- 500MB disk space
+
+[View on GitHub](https://github.com/squirrelsoft-dev/infinite-memory)
+
+---
+
 ## Coming Soon
 
 - **Supabase Patterns** - Reusable auth, RLS, and repository patterns
