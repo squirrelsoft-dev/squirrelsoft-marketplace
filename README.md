@@ -76,7 +76,7 @@ Semantic memory system for Claude Code with persistent context retention through
 - 4GB RAM minimum (8GB recommended)
 - 500MB disk space + ~2KB per file
 
-**Status:** 0.1.5-alpha (Alpha release - ready for testing)
+**Status:** 0.1.6-alpha (Alpha release - ready for testing)
 
 [View on GitHub](https://github.com/squirrelsoft-dev/infinite-memory)
 
