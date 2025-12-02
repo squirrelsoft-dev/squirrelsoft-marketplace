@@ -1,0 +1,12 @@
+[submodule "claude-builder"]
+	path = claude-builder
+	url = https://github.com/squirrelsoft-dev/claude-builder
+[submodule "doc-fetcher"]
+	path = doc-fetcher
+	url = https://github.com/squirrelsoft-dev/doc-fetcher
+[submodule "infinite-memory"]
+	path = infinite-memory
+	url = https://github.com/squirrelsoft-dev/infinite-memory
+[submodule "github"]
+	path = github
+	url = https://github.com/squirrelsoft-dev/.github
