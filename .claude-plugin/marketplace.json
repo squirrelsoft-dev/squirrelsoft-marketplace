@@ -44,7 +44,7 @@
         },
         {
             "name": "infinite-memory",
-            "version": "0.1.0-alpha",
+            "version": "0.1.1-alpha",
             "description": "Semantic memory system for Claude Code with persistent context retention through vector embeddings",
             "source": {
                 "source": "github",
