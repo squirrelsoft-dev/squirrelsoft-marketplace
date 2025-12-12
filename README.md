@@ -104,7 +104,7 @@ Comprehensive workflow automation toolkit for the complete software development 
 - Project management and sprint planning
 - Architecture decision records (ADR) workflow
 
-**Status:** 0.1.0 (Initial release)
+**Status:** 0.2.0
 
 [View on GitHub](https://github.com/squirrelsoft-dev/agency)
 
