@@ -82,6 +82,34 @@ Semantic memory system for Claude Code with persistent context retention through
 
 ---
 
+### Agency
+Comprehensive workflow automation toolkit for the complete software development lifecycle. Includes 51+ specialized agents, composable workflow commands, and intelligent orchestration for requirements gathering, planning, implementation, testing, and deployment.
+```bash
+/plugin install agency@squirrelsoft-dev
+```
+
+**Includes:**
+- 51+ specialized agents across 8 domains (design, engineering, product, marketing, testing, support, project management, spatial computing)
+- 13 workflow commands (/work, /plan, /implement, /review, /test, /sprint, /refactor, /optimize, /document, /security, /adr, /deploy, /help)
+- Orchestrator agent for intelligent task coordination
+- Event-driven automation hooks
+
+**Features:**
+- End-to-end development lifecycle automation
+- GitHub and Jira integration
+- Specialized agents for frontend, backend, AI/ML, DevOps, mobile, and spatial computing
+- Design system specialists (UI, UX, brand, visual storytelling)
+- Marketing and growth automation (social media, content, SEO, app store)
+- Testing and quality assurance automation
+- Project management and sprint planning
+- Architecture decision records (ADR) workflow
+
+**Status:** 0.1.0 (Initial release)
+
+[View on GitHub](https://github.com/squirrelsoft-dev/agency)
+
+---
+
 ## Coming Soon
 
 - **Supabase Patterns** - Reusable auth, RLS, and repository patterns
