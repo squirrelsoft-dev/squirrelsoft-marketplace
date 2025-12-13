@@ -90,7 +90,7 @@ Comprehensive workflow automation toolkit for the complete software development 
 
 **Includes:**
 - 51+ specialized agents across 8 domains (design, engineering, product, marketing, testing, support, project management, spatial computing)
-- 13 workflow commands (/work, /plan, /implement, /review, /test, /sprint, /refactor, /optimize, /document, /security, /adr, /deploy, /help)
+- 15 workflow commands (/work, /plan, /implement, /review, /test, /sprint, /worktree, /refactor, /optimize, /document, /security, /adr, /deploy, /triage, /help)
 - Orchestrator agent for intelligent task coordination
 - Event-driven automation hooks
 
@@ -104,7 +104,7 @@ Comprehensive workflow automation toolkit for the complete software development 
 - Project management and sprint planning
 - Architecture decision records (ADR) workflow
 
-**Status:** 0.2.1
+**Status:** 0.2.3
 
 [View on GitHub](https://github.com/squirrelsoft-dev/agency)
 
