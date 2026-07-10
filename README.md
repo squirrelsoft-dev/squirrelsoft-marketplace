@@ -110,6 +110,23 @@ Comprehensive workflow automation toolkit for the complete software development 
 
 ---
 
+### X Twitter Scraper
+Research X data and automate confirmation-gated actions through Xquik REST and MCP.
+```bash
+/plugin install x-twitter-scraper@squirrelsoft-dev
+```
+
+**Includes:**
+- X post search, account lookup, timelines, and exports
+- REST API, MCP server, SDKs, webhooks, and monitoring
+- Confirmation gates for private reads and write actions
+
+**Status:** 2.4.16
+
+[View on GitHub](https://github.com/Xquik-dev/x-twitter-scraper)
+
+---
+
 ## Coming Soon
 
 - **Supabase Patterns** - Reusable auth, RLS, and repository patterns
