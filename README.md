@@ -51,37 +51,6 @@ Fetch, cache, and version documentation from web sources to provide accurate, ve
 
 ---
 
-### Infinite Memory
-Semantic memory system for Claude Code with persistent context retention through vector embeddings and intelligent retrieval.
-```bash
-/plugin install infinite-memory@squirrelsoft-dev
-```
-
-**Includes:**
-- 5 commands (/index-project, /search, /status, /index-file, /re-index)
-- Auto-index hook for save events
-- Semantic search skill with auto-activation
-- 3 MCP tools (index_project, query_memory, index_file)
-
-**Features:**
-- Semantic code search with natural language
-- Fast indexing (1,500+ files/second)
-- Local-first architecture (complete privacy)
-- Vector database powered by Pixeltable
-- Incremental updates with hash-based change detection
-- High search quality (98% relevance)
-
-**Requirements:**
-- Python ≥3.11
-- 4GB RAM minimum (8GB recommended)
-- 500MB disk space + ~2KB per file
-
-**Status:** 0.1.6-alpha (Alpha release - ready for testing)
-
-[View on GitHub](https://github.com/squirrelsoft-dev/infinite-memory)
-
----
-
 ### Agency
 Comprehensive workflow automation toolkit for the complete software development lifecycle. Includes 51+ specialized agents, composable workflow commands, and intelligent orchestration for requirements gathering, planning, implementation, testing, and deployment.
 ```bash
@@ -107,6 +76,25 @@ Comprehensive workflow automation toolkit for the complete software development 
 **Status:** 0.2.3
 
 [View on GitHub](https://github.com/squirrelsoft-dev/agency)
+
+---
+
+### X Twitter Scraper
+Xquik agent skill and plugin bundle with 126 REST operations, 118 MCP operations through 2 tools, SDKs, webhooks, exports, and approved X workflows.
+```bash
+/plugin install x-twitter-scraper@squirrelsoft-dev
+```
+
+**Includes:**
+- X post search, account lookup, timelines, and exports
+- REST API, MCP server, SDKs, webhooks, and monitoring
+- Confirmation gates for private reads and write actions
+
+**Status:** 2.5.3
+
+[View on GitHub](https://github.com/Xquik-dev/x-twitter-scraper)
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 
 ---
 
