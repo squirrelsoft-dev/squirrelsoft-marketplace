@@ -43,25 +43,6 @@
             ]
         },
         {
-            "name": "infinite-memory",
-            "version": "0.1.6-alpha",
-            "description": "Semantic memory system for Claude Code with persistent context retention through vector embeddings",
-            "source": {
-                "source": "github",
-                "repo": "squirrelsoft-dev/infinite-memory"
-            },
-            "category": "development",
-            "tags": [
-                "semantic-search",
-                "code-search",
-                "memory",
-                "embeddings",
-                "vector-database",
-                "pixeltable",
-                "mcp"
-            ]
-        },
-        {
             "name": "agency",
             "version": "0.2.3",
             "description": "Comprehensive workflow automation toolkit for the complete software development lifecycle. Includes 51+ specialized agents, composable workflow commands, and intelligent orchestration for requirements gathering, planning, implementation, testing, and deployment.",
@@ -82,8 +63,8 @@
         },
         {
             "name": "x-twitter-scraper",
-            "version": "2.4.16",
-            "description": "Research X data and automate confirmation-gated actions through Xquik REST and MCP",
+            "version": "2.5.3",
+            "description": "Xquik agent skill and plugin bundle with 126 REST operations, 118 MCP operations through 2 tools, SDKs, webhooks, exports, and approved X workflows",
             "source": {
                 "source": "github",
                 "repo": "Xquik-dev/x-twitter-scraper"
